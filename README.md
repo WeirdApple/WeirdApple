@@ -5,14 +5,14 @@ I am bot developer (sadly none of my bots are verified), a learning web deb, an 
 # Coding Experience
 I code in:
 
--Python (discord.py mostly)
--HTML
--CSS
+- Python (discord.py mostly)
+- HTML
+- CSS
 
 And I hope to learn
 
--The whole C family
--Better understand JavaScript syntax 😅
+- The whole C family
+- Better understand JavaScript syntax 😅
 
 
 
