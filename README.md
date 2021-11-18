@@ -8,6 +8,8 @@ I code in:
 - Python (discord.py mostly)
 - HTML
 - CSS
+- Some Java
+- Some Lua
 
 And I hope to learn
 
