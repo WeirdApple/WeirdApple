@@ -1,21 +1,15 @@
 # Hi!
-I'm WeirdApple (Or RocketWasTaken)!
-I am bot developer (sadly none of my bots are verified), a learning web deb, an amateur competitive debater, and a typer.
+I'm WeirdApple (MachFische)!
+I do stuff! Programmer (that's why I'm on github), pianist, student by day, student by night, full time idiot.
 
 # Coding Experience
 I code in:
 
-- Python (discord.py mostly)
+- Python (discord bots with pycord lol)
 - HTML
 - CSS
 - Some Java
 - Some Lua
-
-And I hope to learn
-
-- The whole C family
-- Better understand JavaScript syntax 😅
-
 
 
 
