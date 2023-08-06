@@ -1,15 +1,10 @@
 # Hi!
-I'm WeirdApple (MachFische)!
-I do stuff! Programmer (that's why I'm on github), pianist, student by day, student by night, full time idiot.
+I am a fulltime idiot! 
 
 # Coding Experience
-I code in:
+- Python
+- Some C family, Arduino counts, right?
 
-- Python (discord bots with pycord lol)
-- HTML
-- CSS
-- Some Java
-- Some Lua
 
 
 
